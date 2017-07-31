@@ -1,0 +1,37 @@
+# Created by https://www.gitignore.io/api/linux,osx,windows,sublimetext,phpstorm
+
+### Linux ###
+*~
+
+# KDE directory preferences
+.directory
+
+# Linux trash folder which might appear on any partition or disk
+.Trash-*
+
+
+### OSX ###
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+.nb-gradle/
+
+### Eclipse ###
+.buildpath
+.project
+.settings/
+.externalToolBuilders/
